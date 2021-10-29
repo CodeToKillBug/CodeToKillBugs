@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeToKillBugs
 - 👀 I’m interested in Finding And Killing Bugs
-- 🌱 I’m currently learning Xamarin Forms And react Native
-- 💞️ I’m looking to collaborate on optimistic Coder
+- 🌱 I’m currently learning Xamarin Forms And React Native
+- 💞️ I’m looking to collaborate on Optimistic Coder
 - 📫 How to reach me aniket.kharat@singledebt.in
 
 <!---
