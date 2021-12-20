@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeToKillBugs
+- 👋 Hi, I’m @CodeToKillBug
 - 👀 I’m interested in Finding And Killing Bugs
 - 🌱 I’m currently learning Xamarin Forms And React Native
 - 💞️ I’m looking to collaborate With Optimistic Coders
